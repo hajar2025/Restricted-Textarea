@@ -1,0 +1,23 @@
+.title{
+   text-align: center;
+   margin: 20px;
+   margin-top: 200px;
+}
+#text{
+    display: block;
+    margin:  50px  auto;
+    height: 100px;
+    width: 400px;
+    font-size: 20px;
+    border-radius: 5px;
+    outline: none;
+    border: 2px solid  rgb(0, 0, 0);
+    resize: none;
+
+}
+.para{
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+    
+}
